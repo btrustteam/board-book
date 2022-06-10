@@ -1,11 +1,11 @@
 # ₿trust
 
-₿trust is a non-profit organization which exists to decentralize development of Bitcoin software. 
+₿trust is a non-profit organisation which exists to decentralise development of Bitcoin software. 
 
 It will focus on fostering developer talent and supporting the free and open source Bitcoin ecosystem.
 
 ## Board
-₿trust is overseen by a board of directors who are responsible for overseeing delivery of the organization's mission. 
+₿trust is headed up by a board of directors who are responsible for overseeing delivery of the organisation's mission. 
 
 ### Inaugural Board: 2021 - Present 
 - [Abubakar Nur Khalil](https://twitter.com/ihate1999)
@@ -15,4 +15,4 @@ It will focus on fostering developer talent and supporting the free and open sou
 
 
 ## Funding
-₿trust was initially founded by a generous 500 BTC donation from Jack Dorsey and Jay-Z. 
+₿trust was initially funded by a generous 500 BTC donation from Jack Dorsey and Jay-Z. 
